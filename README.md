@@ -1,4 +1,4 @@
-Color scheme for Intellij IDEA similar to the default one in Sublime Text
+**Color scheme for Intellij IDEA similar to the default one in Sublime Text**
 
 To install the scheme in Intellij IDEA go to:
 
