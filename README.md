@@ -1,5 +1,7 @@
 Color scheme for Intellij IDEA similar to the default one in Sublime Text
 
+To install the scheme in Intellij IDEA go to:
+
 File -> Settings -> Editor -> Color Scheme
 
 Click on the gear icon and select:
