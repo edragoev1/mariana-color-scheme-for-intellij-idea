@@ -5,4 +5,5 @@ File -> Settings -> Editor -> Color Scheme
 
 Click on the gear icon and select:
 
+
 Import Scheme -> Intellij IDEA color scheme (.icls) or settings (.jar)
