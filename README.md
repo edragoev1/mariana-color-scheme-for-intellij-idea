@@ -8,4 +8,4 @@ Click on the gear icon and select:
 
 Import Scheme -> Intellij IDEA color scheme (.icls) or settings (.jar)
 
-![alt "Mariana Color Scheme for Intellij"](mariana-color-scheme-for-intellij.png "Mariana Color Scheme for Intellij")
+![alt "Mariana Color Scheme for Intellij IDEA"](mariana-color-scheme-for-idea.png "Mariana Color Scheme for Intellij IDEA")
